@@ -2,11 +2,11 @@
 
 <p>How to test and repair a Delco-Remy starter on your Case 580ck loader backhoe.</p>
 
-<p><img src="/img/1.jpg" alt="Main photo" title="" /></p>
+<p><img src="/img/1.JPG" alt="Main photo" title="" /></p>
 
 <h2>Tools required</h2>
 
-<p><img src="/img/2.jpg" alt="Tools" title="" />
+<p><img src="/img/2.JPG" alt="Tools" title="" />
 * 2 able bodied humans that can lift 50lb each
 * 2 pairs of nitrile gloves
 * 2 pairs of eye protection
@@ -69,7 +69,7 @@
 <li>If the pinion in the bell housing did not extend then you need to repair or replace the starter solenoid <strong><em>Step 6</em></strong></li>
 </ul>
 
-<p><img src="/img/3.jpg" alt="Pinion" title="" /></p>
+<p><img src="/img/3.JPG" alt="Pinion" title="" /></p>
 
 <h3>5. Repairing the starter motor</h3>
 
