@@ -6,7 +6,7 @@
 
 <h2>Tools required</h2>
 
-<p><img src="/img/2.JPG" alt="Tools" title="" />
+<p><img src="/img/2.jpg" alt="Tools" title="" />
 * 2 able bodied humans that can lift 50lb each
 * 2 pairs of nitrile gloves
 * 2 pairs of eye protection
